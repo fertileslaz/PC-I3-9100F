@@ -1,6 +1,5 @@
-# 🎮 Setup Gamer & Estação de Trabalho: Intel i3-9100F + RX 550
-
-Bem-vindo ao repositório do meu setup! Este portfólio documenta detalhadamente o hardware, marcas, conectividade, telemetria térmica e desempenho do meu computador.
+# 🎮 PC GAMER/ESCRITÓRIO/HOME
+Portfólio para documentar detalhadamento do hardware, marcas, conectividade e desempenho Geral.
 
 ---
 
