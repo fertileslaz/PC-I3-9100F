@@ -10,8 +10,8 @@ Bem-vindo ao repositório do meu setup! Este portfólio documenta detalhadamente
 | :--- | :--- | :--- |
 | **Processador (CPU)** | **Intel** Core i3-9100F | 4 Cores / 4 Threads • 3.60 GHz (Boost ~4.10 GHz) • Spec code: SRF6N |
 | **Placa-Mãe** | **Biostar** H310MHC2 (VER: 7.3) | Chipset Intel H310 • Socket LGA 1151 • Saídas HDMI & VGA • PCIe 3.0 |
-|<img width="792" height="1041" alt="Captura de tela 2026-10-05 195400" src="https://github.com/user-attachments/assets/86af034c-88c2-4b35-b4f6-ba81a3d0d63b" />|
-| **Placa de Vídeo (GPU)** | **PowerColor** AMD Radeon RX 550 | 4 GB GDDR5 (AXRX 550 4GBD5-DH) • 128-bit |
+|||<img width="792" height="1041" alt="Captura de tela 2026-10-05 195400" src="https://github.com/user-attachments/assets/86af034c-88c2-4b35-b4f6-ba81a3d0d63b" />|
+| **Placa de Vídeo (GPU)** | **PowerColor** AMD Radeon RX 550 | 4 GB GDDR5 (AXRX 550 4GBD5-DH) • 128-bit |||
 | **Memória RAM** | **CeaMere** (2x 8GB) | 16 GB DDR4 3200MHz • Dual-Channel • Dissipador de Alumínio |
 | **Armazenamento** | **Goldenfir** T800 Series | SSD 512 GB 2.5" SATA III (6 Gb/s) |
 | **Fonte de Alimentação** | **Corsair** CX430 | 430W • Certificação 80 Plus Bronze |
