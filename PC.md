@@ -19,9 +19,8 @@ Portfólio para documentar detalhadamento dos hardware, marcas, conectividade e 
 
 ---
 ## 📋 Imagens e Fotos
-/><img width="3000" height="4000" alt="foto externa" src="https://github.com/user-attachments/assets/44644bbb-9d15-413b-a068-d2d134f2cd8e" />
-
-<img width="792" height="1041" alt="Captura de tela 2026-10-05 195400" src="https://github.com/user-attachments/assets/86af034c-88c2-4b35-b4f6-ba81a3d0d63b"
+<img width="3000" height="4000" alt="foto externa" src="https://github.com/user-attachments/assets/44644bbb-9d15-413b-a068-d2d134f2cd8e" />
+<img width="792" height="1041" alt="Captura de tela 2026-10-05 195400" src="https://github.com/user-attachments/assets/86af034c-88c2-4b35-b4f6-ba81a3d0d63b" />
 <img width="4000" height="3000" alt="placa de video por cima" src="https://github.com/user-attachments/assets/6e9ad999-bceb-42d5-9433-abb4ba20b828" />
 <img width="3000" height="4000" alt="parte atras com o ssd sata" src="https://github.com/user-attachments/assets/50e6835a-d6f8-41cc-ae2a-8e26e5e4fbb3" />
 <img width="3000" height="4000" alt="memoria ram atras" src="https://github.com/user-attachments/assets/1e5900ed-51e5-4b99-aa82-0b6575f8de52" />
