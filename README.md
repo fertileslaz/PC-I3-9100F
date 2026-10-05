@@ -16,6 +16,7 @@ Bem-vindo ao repositório do meu setup! Este portfólio documenta detalhadamente
 | **Fonte de Alimentação** | **Corsair** CX430 | 430W • Certificação 80 Plus Bronze |
 | **Gabinete** | **Vinik** | Mid Tower • LED Azul • Cable Management traseiro |
 | **Rede Sem Fio (Wi-Fi)** | **Adaptador USB Dual Band** | Wi-Fi 5 (802.11ac) • 1300 Mbps • Dual Band (2.4G & 5G) • USB 3.0 |
+<img width="792" height="1041" alt="Captura de tela 2026-10-05 195400" src="https://github.com/user-attachments/assets/86af034c-88c2-4b35-b4f6-ba81a3d0d63b" />
 
 ---
 
