@@ -1,45 +1,56 @@
 # 🎮 Setup Gamer & Estação de Trabalho: Intel i3-9100F + RX 550
 
-Bem-vindo ao repositório de documentação técnica do meu computador! Este portfólio apresenta a arquitetura de hardware, saúde dos componentes, temperaturas de operação e métricas reais de desempenho gamer em tempo real.
+Bem-vindo ao repositório do meu setup! Este portfólio documenta detalhadamente o hardware, marcas, conectividade, telemetria térmica e desempenho do meu computador.
 
 ---
 
-## 🛠️ Especificações de Hardware (Dados Técnicos)
+## 🛠️ Especificações Detalhadas do Hardware
 
-| Componente | Especificação Detalhada | Frequências / Destaques |
+| Componente | Marca / Modelo | Especificação / Destaques |
 | :--- | :--- | :--- |
-| **Processador (CPU)** | Intel Core i3-9100F (4 Cores / 4 Threads) | Base 3.60 GHz / Boost até ~4.10 GHz (Coffee Lake 14nm) |
-| **Placa de Vídeo (GPU)** | AMD Radeon RX 550 / 550 Series (Lexa 14nm) | 4 GB GDDR5 (Samsung) • Bus 128-bit |
-| **Placa-Mãe** | BIOSTAR Group H310MHC2 | Chipset Intel H310 • PCIe 3.0 |
-| **Memória RAM** | 16 GB DDR4 (2x 8GB Samsung) | Dual-Channel @ ~2400 MHz (1198.9 MHz DRAM) |
-| **Armazenamento** | SSD 512 GB SATA III (6 Gb/s) | Suporte a TRIM e S.M.A.R.T. |
-| **Rede Sem Fio** | Realtek 8812CU Wireless LAN | Adaptador Wi-Fi 802.11ac USB Dual-Band |
+| **Processador (CPU)** | **Intel** Core i3-9100F | 4 Cores / 4 Threads • 3.60 GHz (Boost ~4.10 GHz) • Spec code: SRF6N |
+| **Placa de Vídeo (GPU)** | **PowerColor** AMD Radeon RX 550 | 4 GB GDDR5 (AXRX 550 4GBD5-DH) • 128-bit |
+| **Placa-Mãe** | **Biostar** H310MHC2 (VER: 7.3) | Chipset Intel H310 • Socket LGA 1151 • Saídas HDMI & VGA • PCIe 3.0 |
+| **Memória RAM** | **CeaMere** (2x 8GB) | 16 GB DDR4 3200MHz • Dual-Channel • Dissipador de Alumínio |
+| **Armazenamento** | **Goldenfir** T800 Series | SSD 512 GB 2.5" SATA III (6 Gb/s) |
+| **Fonte de Alimentação** | **Corsair** CX430 | 430W • Certificação 80 Plus Bronze |
+| **Gabinete** | **Vinik** | Mid Tower • LED Azul • Cable Management traseiro |
+| **Rede Sem Fio (Wi-Fi)** | **Adaptador USB Dual Band** | Wi-Fi 5 (802.11ac) • 1300 Mbps • Dual Band (2.4G & 5G) • USB 3.0 |
 
 ---
 
-## 🌡️ Telemetria & Temperaturas em Operação (HWMonitor / CrystalDisk)
+## 🔌 Conectividade & Portas USB
 
-Dados de estabilidade térmica e saúde do sistema sob carga regular e jogos:
-
-* **Processador (CPU):** ~38 °C a 49 °C *(Excelente faixa de temperatura)*
-* **Placa de Vídeo (GPU):** ~33 °C em idle/carga moderada
-* **Placa-Mãe / Chipset:** ~30 °C a 39 °C
-* **Saúde do SSD:** **100% Saudável** (Status S.M.A.R.T. perfeito, temperatura estável em ~40 °C)
-
----
-
-## 🎯 Desempenho Prático em Jogos (Benchmarks de Benchmark/Overlay)
-
-Métricas coletadas durante sessões de jogo reais (ex: Fortnite em HD 1330x768):
-
-* **Média de FPS (Configurações Competitivas/Baixas):** ~140 a 142 FPS de média (com picos de até 144 FPS)
-* **Uso de Memória RAM em Jogo:** ~10 GB a 11 GB utilizados de forma otimizada
-* **Uso VRAM da GPU:** ~1.5 GB a 2.0 GB de consumo de memória de vídeo
+* **Painel Traseiro (Placa-Mãe):**
+  * 2x Portas USB 3.0 (USB 3.1 Gen1 / Alta Velocidade)
+  * 2x Portas USB 2.0
+  * 1x Porta de Rede RJ-45 (Gigabit LAN)
+  * 1x Saída HDMI & 1x Saída VGA (D-Sub)
+  * 1x Conector PS/2 (Teclado/Mouse)
+  * Entradas/Saídas de Áudio HD (P2)
+* **Painel Frontal (Gabinete):**
+  * 1x Porta USB 3.0
+  * 2x Portas USB 2.0
+  * Conectores P2 para Fone e Microfone
 
 ---
 
-## 🧰 Softwares e Utilitários de Diagnóstico Utilizados
-* **CPU-Z:** Validação e análise profunda de frequências e timings de memória RAM.
-* **HWMonitor:** Monitoramento de frequências de clock e temperaturas gerais.
-* **CrystalDiskInfo:** Verificação de integridade e horas de uso do SSD (S.M.A.R.T.).
-* **RivaTuner / OSD Overlay:** Acompanhamento de FPS e frametime em tempo real.
+## 🌡️ Telemetria & Temperaturas de Operação
+
+* **Processador (CPU):** ~38 °C a 49 °C em carga de uso
+* **Placa de Vídeo (GPU):** ~33 °C estável
+* **Saúde do SSD (Goldenfir):** **100% Saudável** via S.M.A.R.T. (~40 °C)
+
+---
+
+## 🎯 Desempenho Prático em Jogos
+
+* **Taxa de Quadros (FPS):** Média estável de ~140 a 142 FPS (ex: Fortnite em HD 1330x768 em configs competitivas)
+* **Uso do Sistema:** ~10 GB de RAM alocados • ~1.5 GB VRAM da GPU consumidos
+
+---
+
+## 🧰 Softwares e Utilitários de Diagnóstico
+* **CPU-Z:** Leitura técnica de lote, timings de memória e fabricante de chips.
+* **HWMonitor:** Monitoramento em tempo real de voltagens, clocks e temperaturas.
+* **CrystalDiskInfo:** Análise preventiva de saúde do SSD e histórico de uso.
