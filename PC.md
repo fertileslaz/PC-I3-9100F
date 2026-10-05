@@ -19,8 +19,12 @@ Portfólio para documentar detalhadamento dos hardware, marcas, conectividade e 
 
 ---
 ## 📋 Imagens e Fotos
-<img width="1359" height="767" alt="fortnite (3)" src="https://github.com/user-attachments/assets/5eb44cff-b6b9-4bbf-bb49-01e25223a9f5" />
+
+LOW em 1366x768 (HD)
 <img width="1359" height="762" alt="baixo Hd 1330" src="https://github.com/user-attachments/assets/818bcbd7-c977-4199-b247-88d5590db48a" />
+HIGT em 1366x768 (HD)
+<img width="1359" height="767" alt="fortnite (3)" src="https://github.com/user-attachments/assets/5eb44cff-b6b9-4bbf-bb49-01e25223a9f5" />
+LOW em 1366x768 (HD)
 <img width="997" height="688" alt="crystal disck" src="https://github.com/user-attachments/assets/3697688c-ad8e-4cc5-8738-7206d92ee75c" />
 
 
