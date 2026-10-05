@@ -8,7 +8,8 @@ Portfólio para documentar detalhadamento do hardware, marcas, conectividade e d
 | Componente | Marca / Modelo | Destaques |
 | :--- | :--- | :--- |
 | **Fonte de Alimentação** | **Corsair** CX430 | 430W • Bivolt • PFC ativo • 80 Plus Bronze|
-| **Processador (CPU)** | **Intel 9°gen**     Core i3 9100F | 4 Threads • 3.60 GHz (Com Gamer Boost de 4.10 GHz) |
+| **Processador (CPU)** | **Intel 9°gen** 
+Core i3 9100F | 4 Threads • 3.60 GHz (Com Gamer Boost de 4.10 GHz) |
 | **Placa-Mãe** | **Biostar** H310MHC2 | Chipset Intel • Socket LGA 1151 • PCIe 3.0 |
 | **Placa de Vídeo (GPU)** | **PowerColor** AMD Radeon RX 550 | 4GB GDDR5 |
 | **Memória RAM** | **CeaMere** (2x 8GB) | 16GB DDR4 3200MHz • Dual-Channel • Dissipador de Alumínio |
