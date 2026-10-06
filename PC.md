@@ -5,7 +5,7 @@ Portfólio para documentar detalhadamento dos hardware, marcas, conectividade e 
 
 ## 🛠️ Especificações
 
-| Componente | Marca / Modelo | Destaques |
+| Componente&nbsp;&nbsp; | Marca / Modelo &nbsp;&nbsp;&nbsp;| Destaques |
 | :--- | :--- | :--- |
 | **Fonte de Alimentação** | **Corsair** CX430 | 430W • Bivolt • PFC ativo • 80 Plus Bronze |
 | **Processador (CPU)** | **Intel 9°gen** Core i3-9100F | 4 Threads • 3.60 GHz (Gamer Boost de 4.10 GHz) |
