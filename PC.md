@@ -14,9 +14,9 @@ Portfólio para documentar detalhadamento dos hardware, marcas, conectividade e 
 | **Memória RAM** | **CeaMere** (2x 8GB) | 16GB DDR4 3200MHz • Dual-Channel • Dissipador de Alumínio |
 | **Armazenamento** | **Goldenfir** T800 | SSD 512GB 2.5" SATA III (6 Gb/s) |
 | **Gabinete** | **Vinik** | Mid Tower • Micro-ATX|
-| **Ventoinha** | **RiseMode** | Fan 120mm (LED Azul, 1500 RPM, 50 CFM) • Fan 120mm (Sem LED, 1500 RPM, 50 CFM) • Fan 80mm (Sem LED, 1500 RPM, 50 CFM)|
+| **Ventoinhas** | **RiseMode** | Fan 120mm (LED Azul, 1500 RPM, 50 CFM) • Fan 120mm (Sem LED, 1500 RPM, 50 CFM) • Fan 80mm (Sem LED, 1500 RPM, 50 CFM)|
 | **Rede Wi-Fi** | **Adaptador USB** | Wi-Fi 5 • 1300 Mbps • USB 3.0 |
-
+| **Sistema Instalado** | **Windowns 11 Pro** | Personalize Como Quiser |
 ---
 ## 📋 Imagens e Fotos
 
