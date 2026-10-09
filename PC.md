@@ -10,7 +10,7 @@ Portfólio para documentar detalhadamento dos hardware, marcas, conectividade e 
 | **Fonte de Alimentação** | **Corsair** CX430 | 430W • Bivolt • PFC ativo • 80 Plus Bronze •  1xATX 20 ou 24 pinos, 1xCPU 4 ou 8 pinos 1xPCIe 3.0, 3xMolex, 4xSATA Power e 1xFDD Power|
 | **Processador (CPU)** | **Intel** Core i3-9100F | 4 Threads • 3.60 GHz (Game Boost até 4.0 GHz) |
 | **Placa-Mãe** | **Biostar** H310MHC2 | Chipset Intel • Socket LGA 1151 • PCIe 3.0 |
-| **Placa de Vídeo (GPU)** | **PowerColor** AMD Radeon RX 550 | 4GB GDDR5 clock ate 1071 MHz|
+| **Placa de Vídeo (GPU)** | **PowerColor** AMD Radeon RX 550 | 4GB GDDR5 clock até 1071 MHz|
 | **Memória RAM** | **CeaMere** (2x 8GB) | 16GB DDR4 3200MHz • Dual-Channel • Dissipador de Alumínio |
 | **Armazenamento** | **Goldenfir** T800 | SSD 512GB 2.5" SATA III (6 Gb/s) |
 | **Gabinete** | **Vinik** | Mid Tower • Micro-ATX|
