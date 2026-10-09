@@ -7,7 +7,7 @@ Portfólio para documentar detalhadamento dos hardware, marcas, conectividade e 
 
 | Componente | Marca / Modelo | Destaques |
 | :--- | :--- | :--- |
-| **Fonte de Alimentação** | **Corsair** CX430 | 430W • Bivolt • PFC ativo • 80 Plus Bronze •  1xATX 20 ou 24 pinos, 1xCPU 4 ou 8 pinos 1xPCI-E 3.0, 3xMolex, 4xSATA Power e 1xFDD Power|
+| **Fonte de Alimentação** | **Corsair** CX430 | 430W • Bivolt • PFC ativo • 80 Plus Bronze •  1xATX 20 ou 24 pinos, 1xCPU 4 ou 8 pinos 1xPCIe 3.0, 3xMolex, 4xSATA Power e 1xFDD Power|
 | **Processador (CPU)** | **Intel** Core i3-9100F | 4 Threads • 3.60 GHz (Game Boost até 4.10 GHz) |
 | **Placa-Mãe** | **Biostar** H310MHC2 | Chipset Intel • Socket LGA 1151 • PCIe 3.0 |
 | **Placa de Vídeo (GPU)** | **PowerColor** AMD Radeon RX 550 | 4GB GDDR5 |
