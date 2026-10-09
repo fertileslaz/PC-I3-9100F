@@ -3,20 +3,20 @@ Portfólio para documentar detalhadamento dos hardware, marcas, conectividade e 
 
 ---
 
-## 🛠️ Especificações
+## 🛠️ Especificações de hardware
 
 | Componente | Marca / Modelo | Destaques |
 | :--- | :--- | :--- |
-| **Fonte de Alimentação** | **Corsair** CX430 | 430W • Bivolt • PFC ativo • 80 Plus Bronze •  1xATX 20 ou 24 pinos, 1xCPU 4 ou 8 pinos 1xPCIe 3.0, 3xMolex, 4xSATA Power e 1xFDD Power|
+| **Fonte de Alimentação** | **Corsair** CX430 | 430W • Bivolt • PFC ativo • 80 Plus Bronze •  1xATX 20 ou 24 Pinos, 1xCPU 4 ou 8 Pinos 1xPCIe 3.0, 3xMolex, 4xSATA Power e 1xFDD Power|
 | **Processador (CPU)** | **Intel** Core i3-9100F | 4 Threads • 3.60 GHz (Game Boost até 4.0 GHz) |
 | **Placa-Mãe** | **Biostar** H310MHC2 | Chipset Intel • Socket LGA 1151 • PCIe 3.0 |
-| **Placa de Vídeo (GPU)** | **PowerColor** AMD Radeon RX 550 | 4GB GDDR5 clock até 1071 MHz|
+| **Placa de Vídeo (GPU)** | **PowerColor** AMD Radeon RX 550 | 4GB GDDR5 Clock até 1071 MHz|
 | **Memória RAM** | **CeaMere** (2x 8GB) | 16GB DDR4 3200MHz • Dual-Channel • Dissipador de Alumínio |
 | **Armazenamento** | **Goldenfir** T800 | SSD 512GB 2.5" SATA III (6 Gb/s) |
 | **Gabinete** | **Vinik** | Mid Tower • Micro-ATX|
 | **Ventoinhas** | **RiseMode** | Fan 120mm (LED Azul, 1500 RPM, 50 CFM) • Fan 120mm (Sem LED, 1500 RPM, 50 CFM) • Fan 80mm (Sem LED, 1500 RPM, 50 CFM)|
 | **Rede Wi-Fi** | **Adaptador USB** | Wi-Fi 5 • 1300 Mbps • USB 3.0 |
-| **Sistema Instalado** | **Windowns 11 Pro** | Personalize Como Quiser |
+| **Sistema Instalado** | **Windowns 11 Pro** | Ativado |
 ---
 ## 📋 Imagens e Fotos
 
